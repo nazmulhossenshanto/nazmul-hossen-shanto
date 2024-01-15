@@ -11,6 +11,7 @@ body {
   color: #181818;
   font-size: 45px;
   font-weight: 800;
+  margin: 0 200px;
 }
 .texr-primary {
   color: #fd6e0a;
@@ -35,4 +36,15 @@ nav a {
   font-size: 20px;
   font-weight: 700;
   padding: 15px 15px;
+}
+.header{
+  background-color: #fff8f3;
+}
+.banner{
+  padding: 30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+}
+.banner .profile{
+  width: 500px;
 }
